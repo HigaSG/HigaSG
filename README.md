@@ -7,4 +7,4 @@ Currently, I'm studying programming at Alura and I'm excited to become a full-st
 Feel free to explore my repositories and projects, and get in touch with me if you want to discuss collaborations or job opportunities. Thank you for visiting my profile!
 
 ### Contact Me
-https://www.linkedin.com/in/alfredo-higa-790061264/
+- <a href="https://www.linkedin.com/in/giovannamoeller/">Linkedin</a>
